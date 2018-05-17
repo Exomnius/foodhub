@@ -1,0 +1,10 @@
+{
+  "name": "foodhub",
+  "version": "1.0.0",
+  "repository": "https://github.com/Exomnius/foodhub.git",
+  "contributors": ["Cornel Janssen"],
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
